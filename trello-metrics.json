@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-09-02T21:18:06.068Z",
+  "generatedAt": "2026-09-02T21:34:32.605Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-09-02",
@@ -17,7 +17,7 @@
     "movedForwardThisMonth": 15,
     "triageClearedThisWeek": 12,
     "triageClearedThisMonth": 12,
-    "momentumScore": 31,
+    "momentumScore": 4,
     "triage": 2,
     "pending": 13,
     "inProgress": 3,
