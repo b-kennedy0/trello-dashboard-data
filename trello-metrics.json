@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "generatedAt": "2026-09-02T21:43:23.220Z",
+  "version": 3,
+  "generatedAt": "2026-09-02T22:14:28.670Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-09-02",
@@ -48,6 +48,18 @@
         "date": "2026-09-04",
         "label": "Fri",
         "count": 0
+      }
+    ],
+    "completedByMonthDay": [
+      {
+        "date": "2026-09-01",
+        "label": "1",
+        "count": 2
+      },
+      {
+        "date": "2026-09-02",
+        "label": "2",
+        "count": 2
       }
     ]
   },
