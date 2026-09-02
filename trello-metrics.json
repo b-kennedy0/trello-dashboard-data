@@ -1,16 +1,23 @@
 {
-  "version": 1,
-  "generatedAt": "2026-09-02T21:04:48.850Z",
+  "version": 2,
+  "generatedAt": "2026-09-02T21:18:06.068Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-09-02",
     "weekStartsOn": "Monday",
     "weekStart": "2026-08-31",
-    "weekEnd": "2026-09-06"
+    "weekEnd": "2026-09-06",
+    "monthStart": "2026-09-01"
   },
   "counts": {
     "completedToday": 2,
     "completedThisWeek": 4,
+    "completedThisMonth": 4,
+    "movedForwardThisWeek": 15,
+    "movedForwardThisMonth": 15,
+    "triageClearedThisWeek": 12,
+    "triageClearedThisMonth": 12,
+    "momentumScore": 31,
     "triage": 2,
     "pending": 13,
     "inProgress": 3,
