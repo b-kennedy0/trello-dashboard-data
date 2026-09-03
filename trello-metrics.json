@@ -1,23 +1,23 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-02T22:14:28.670Z",
+  "generatedAt": "2026-09-03T08:18:34.178Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-09-02",
+    "today": "2026-09-03",
     "weekStartsOn": "Monday",
     "weekStart": "2026-08-31",
     "weekEnd": "2026-09-06",
     "monthStart": "2026-09-01"
   },
   "counts": {
-    "completedToday": 2,
+    "completedToday": 0,
     "completedThisWeek": 4,
     "completedThisMonth": 4,
     "movedForwardThisWeek": 15,
     "movedForwardThisMonth": 15,
     "triageClearedThisWeek": 12,
     "triageClearedThisMonth": 12,
-    "triage": 2,
+    "triage": 7,
     "pending": 13,
     "inProgress": 3,
     "blockedWaiting": 6
@@ -60,13 +60,18 @@
         "date": "2026-09-02",
         "label": "2",
         "count": 2
+      },
+      {
+        "date": "2026-09-03",
+        "label": "3",
+        "count": 0
       }
     ]
   },
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 2
+      "openCards": 7
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
