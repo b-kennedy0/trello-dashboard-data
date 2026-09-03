@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-03T11:17:16.468Z",
+  "generatedAt": "2026-09-03T14:17:14.175Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-09-03",
@@ -13,13 +13,13 @@
     "completedToday": 0,
     "completedThisWeek": 4,
     "completedThisMonth": 4,
-    "movedForwardThisWeek": 15,
-    "movedForwardThisMonth": 15,
-    "triageClearedThisWeek": 12,
-    "triageClearedThisMonth": 12,
-    "triage": 7,
-    "pending": 13,
-    "inProgress": 3,
+    "movedForwardThisWeek": 21,
+    "movedForwardThisMonth": 21,
+    "triageClearedThisWeek": 18,
+    "triageClearedThisMonth": 18,
+    "triage": 2,
+    "pending": 17,
+    "inProgress": 5,
     "blockedWaiting": 6
   },
   "trends": {
@@ -71,7 +71,7 @@
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 7
+      "openCards": 2
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
@@ -79,11 +79,11 @@
     },
     "today": {
       "name": "Today",
-      "openCards": 3
+      "openCards": 7
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 5
+      "openCards": 7
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
