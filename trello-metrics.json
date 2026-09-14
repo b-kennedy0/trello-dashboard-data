@@ -1,54 +1,54 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-11T14:17:13.800Z",
+  "generatedAt": "2026-09-14T08:17:51.292Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-09-11",
+    "today": "2026-09-14",
     "weekStartsOn": "Monday",
-    "weekStart": "2026-09-07",
-    "weekEnd": "2026-09-13",
+    "weekStart": "2026-09-14",
+    "weekEnd": "2026-09-20",
     "monthStart": "2026-09-01",
     "monthEnd": "2026-09-30"
   },
   "counts": {
-    "completedToday": 1,
-    "completedThisWeek": 12,
-    "completedThisMonth": 27,
-    "movedForwardThisWeek": 10,
+    "completedToday": 0,
+    "completedThisWeek": 0,
+    "completedThisMonth": 28,
+    "movedForwardThisWeek": 0,
     "movedForwardThisMonth": 40,
-    "triageClearedThisWeek": 12,
-    "triageClearedThisMonth": 36,
+    "triageClearedThisWeek": 0,
+    "triageClearedThisMonth": 39,
     "triage": 1,
     "pending": 11,
     "inProgress": 4,
-    "blockedWaiting": 8
+    "blockedWaiting": 10
   },
   "trends": {
     "completedByDay": [
       {
-        "date": "2026-09-07",
+        "date": "2026-09-14",
         "label": "Mon",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-09-15",
         "label": "Tue",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-09-16",
         "label": "Wed",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-09-17",
         "label": "Thu",
-        "count": 5
+        "count": 0
       },
       {
-        "date": "2026-09-11",
+        "date": "2026-09-18",
         "label": "Fri",
-        "count": 1
+        "count": 0
       }
     ],
     "completedByMonthDay": [
@@ -105,7 +105,7 @@
       {
         "date": "2026-09-11",
         "label": "11",
-        "count": 1
+        "count": 2
       },
       {
         "date": "2026-09-12",
@@ -223,11 +223,11 @@
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
-      "openCards": 8
+      "openCards": 10
     },
     "done": {
       "name": "Done",
-      "openCards": 36
+      "openCards": 37
     }
   }
 }
