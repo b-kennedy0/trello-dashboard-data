@@ -1,9 +1,9 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-14T14:17:19.882Z",
+  "generatedAt": "2026-09-15T08:17:27.914Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-09-14",
+    "today": "2026-09-15",
     "weekStartsOn": "Monday",
     "weekStart": "2026-09-14",
     "weekEnd": "2026-09-20",
@@ -12,23 +12,23 @@
   },
   "counts": {
     "completedToday": 0,
-    "completedThisWeek": 0,
-    "completedThisMonth": 28,
-    "movedForwardThisWeek": 0,
-    "movedForwardThisMonth": 40,
-    "triageClearedThisWeek": 0,
-    "triageClearedThisMonth": 39,
-    "triage": 3,
+    "completedThisWeek": 3,
+    "completedThisMonth": 31,
+    "movedForwardThisWeek": 2,
+    "movedForwardThisMonth": 42,
+    "triageClearedThisWeek": 3,
+    "triageClearedThisMonth": 42,
+    "triage": 0,
     "pending": 11,
-    "inProgress": 4,
-    "blockedWaiting": 10
+    "inProgress": 5,
+    "blockedWaiting": 9
   },
   "trends": {
     "completedByDay": [
       {
         "date": "2026-09-14",
         "label": "Mon",
-        "count": 0
+        "count": 3
       },
       {
         "date": "2026-09-15",
@@ -120,7 +120,7 @@
       {
         "date": "2026-09-14",
         "label": "14",
-        "count": 0
+        "count": 3
       },
       {
         "date": "2026-09-15",
@@ -207,27 +207,27 @@
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 3
+      "openCards": 0
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
-      "openCards": 9
+      "openCards": 8
     },
     "today": {
       "name": "Today",
-      "openCards": 5
+      "openCards": 6
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 6
+      "openCards": 7
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
-      "openCards": 10
+      "openCards": 9
     },
     "done": {
       "name": "Done",
-      "openCards": 37
+      "openCards": 0
     }
   }
 }
