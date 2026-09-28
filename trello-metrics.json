@@ -1,52 +1,52 @@
 {
   "version": 3,
-  "generatedAt": "2026-09-25T14:17:14.073Z",
+  "generatedAt": "2026-09-28T08:18:09.788Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-09-25",
+    "today": "2026-09-28",
     "weekStartsOn": "Monday",
-    "weekStart": "2026-09-21",
-    "weekEnd": "2026-09-27",
+    "weekStart": "2026-09-28",
+    "weekEnd": "2026-10-04",
     "monthStart": "2026-09-01",
     "monthEnd": "2026-09-30"
   },
   "counts": {
     "completedToday": 0,
-    "completedThisWeek": 12,
+    "completedThisWeek": 0,
     "completedThisMonth": 52,
-    "movedForwardThisWeek": 9,
-    "movedForwardThisMonth": 57,
-    "triageClearedThisWeek": 8,
-    "triageClearedThisMonth": 58,
-    "triage": 3,
-    "pending": 10,
+    "movedForwardThisWeek": 0,
+    "movedForwardThisMonth": 60,
+    "triageClearedThisWeek": 0,
+    "triageClearedThisMonth": 59,
+    "triage": 4,
+    "pending": 11,
     "inProgress": 3,
     "blockedWaiting": 9
   },
   "trends": {
     "completedByDay": [
       {
-        "date": "2026-09-21",
+        "date": "2026-09-28",
         "label": "Mon",
-        "count": 6
+        "count": 0
       },
       {
-        "date": "2026-09-22",
+        "date": "2026-09-29",
         "label": "Tue",
-        "count": 3
+        "count": 0
       },
       {
-        "date": "2026-09-23",
+        "date": "2026-09-30",
         "label": "Wed",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-09-24",
+        "date": "2026-10-01",
         "label": "Thu",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-09-25",
+        "date": "2026-10-02",
         "label": "Fri",
         "count": 0
       }
@@ -207,15 +207,15 @@
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 3
+      "openCards": 4
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
-      "openCards": 12
+      "openCards": 10
     },
     "today": {
       "name": "Today",
-      "openCards": 1
+      "openCards": 4
     },
     "inProgress": {
       "name": "In Progress",
