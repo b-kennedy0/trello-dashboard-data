@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "generatedAt": "2026-09-29T14:18:24.043Z",
+  "version": 4,
+  "generatedAt": "2026-09-29T18:15:53.429Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-09-29",
@@ -8,20 +8,21 @@
     "weekStart": "2026-09-28",
     "weekEnd": "2026-10-04",
     "monthStart": "2026-09-01",
-    "monthEnd": "2026-09-30"
+    "monthEnd": "2026-09-30",
+    "previousMonth": "2026-08"
   },
   "counts": {
     "completedToday": 0,
     "completedThisWeek": 2,
     "completedThisMonth": 54,
-    "movedForwardThisWeek": 5,
-    "movedForwardThisMonth": 65,
-    "triageClearedThisWeek": 2,
-    "triageClearedThisMonth": 61,
+    "movedForwardThisWeek": 8,
+    "movedForwardThisMonth": 68,
+    "triageClearedThisWeek": 3,
+    "triageClearedThisMonth": 62,
     "triage": 2,
-    "pending": 15,
-    "inProgress": 1,
-    "blockedWaiting": 9
+    "pending": 14,
+    "inProgress": 3,
+    "blockedWaiting": 10
   },
   "trends": {
     "completedByDay": [
@@ -202,6 +203,162 @@
         "label": "30",
         "count": 0
       }
+    ],
+    "completedByYearMonth": [
+      {
+        "month": "2026-01",
+        "label": "Jan",
+        "count": 15,
+        "state": "past"
+      },
+      {
+        "month": "2026-02",
+        "label": "Feb",
+        "count": 43,
+        "state": "past"
+      },
+      {
+        "month": "2026-03",
+        "label": "Mar",
+        "count": 26,
+        "state": "past"
+      },
+      {
+        "month": "2026-04",
+        "label": "Apr",
+        "count": 47,
+        "state": "past"
+      },
+      {
+        "month": "2026-05",
+        "label": "May",
+        "count": 28,
+        "state": "past"
+      },
+      {
+        "month": "2026-06",
+        "label": "Jun",
+        "count": 23,
+        "state": "past"
+      },
+      {
+        "month": "2026-07",
+        "label": "Jul",
+        "count": 21,
+        "state": "past"
+      },
+      {
+        "month": "2026-08",
+        "label": "Aug",
+        "count": 32,
+        "state": "past"
+      },
+      {
+        "month": "2026-09",
+        "label": "Sep",
+        "count": 54,
+        "state": "current"
+      },
+      {
+        "month": "2026-10",
+        "label": "Oct",
+        "count": 0,
+        "state": "future"
+      },
+      {
+        "month": "2026-11",
+        "label": "Nov",
+        "count": 0,
+        "state": "future"
+      },
+      {
+        "month": "2026-12",
+        "label": "Dec",
+        "count": 0,
+        "state": "future"
+      }
+    ]
+  },
+  "history": {
+    "monthly": [
+      {
+        "month": "2025-09",
+        "done": 3,
+        "progressed": 0,
+        "triaged": 1
+      },
+      {
+        "month": "2025-10",
+        "done": 1,
+        "progressed": 0,
+        "triaged": 0
+      },
+      {
+        "month": "2025-11",
+        "done": 2,
+        "progressed": 0,
+        "triaged": 2
+      },
+      {
+        "month": "2025-12",
+        "done": 0,
+        "progressed": 0,
+        "triaged": 0
+      },
+      {
+        "month": "2026-01",
+        "done": 15,
+        "progressed": 21,
+        "triaged": 14
+      },
+      {
+        "month": "2026-02",
+        "done": 43,
+        "progressed": 2,
+        "triaged": 8
+      },
+      {
+        "month": "2026-03",
+        "done": 26,
+        "progressed": 7,
+        "triaged": 15
+      },
+      {
+        "month": "2026-04",
+        "done": 47,
+        "progressed": 36,
+        "triaged": 36
+      },
+      {
+        "month": "2026-05",
+        "done": 28,
+        "progressed": 20,
+        "triaged": 12
+      },
+      {
+        "month": "2026-06",
+        "done": 23,
+        "progressed": 38,
+        "triaged": 21
+      },
+      {
+        "month": "2026-07",
+        "done": 21,
+        "progressed": 9,
+        "triaged": 13
+      },
+      {
+        "month": "2026-08",
+        "done": 32,
+        "progressed": 22,
+        "triaged": 13
+      },
+      {
+        "month": "2026-09",
+        "done": 54,
+        "progressed": 68,
+        "triaged": 62
+      }
     ]
   },
   "lists": {
@@ -215,15 +372,15 @@
     },
     "today": {
       "name": "Today",
-      "openCards": 6
+      "openCards": 5
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 3
+      "openCards": 5
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
-      "openCards": 9
+      "openCards": 10
     },
     "done": {
       "name": "Done",
