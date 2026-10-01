@@ -1,24 +1,24 @@
 {
   "version": 4,
-  "generatedAt": "2026-09-30T17:17:17.202Z",
+  "generatedAt": "2026-10-01T08:18:06.535Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-09-30",
+    "today": "2026-10-01",
     "weekStartsOn": "Monday",
     "weekStart": "2026-09-28",
     "weekEnd": "2026-10-04",
-    "monthStart": "2026-09-01",
-    "monthEnd": "2026-09-30",
-    "previousMonth": "2026-08"
+    "monthStart": "2026-10-01",
+    "monthEnd": "2026-10-31",
+    "previousMonth": "2026-09"
   },
   "counts": {
     "completedToday": 0,
     "completedThisWeek": 2,
-    "completedThisMonth": 54,
+    "completedThisMonth": 0,
     "movedForwardThisWeek": 8,
-    "movedForwardThisMonth": 68,
+    "movedForwardThisMonth": 0,
     "triageClearedThisWeek": 3,
-    "triageClearedThisMonth": 62,
+    "triageClearedThisMonth": 0,
     "triage": 6,
     "pending": 14,
     "inProgress": 3,
@@ -54,153 +54,158 @@
     ],
     "completedByMonthDay": [
       {
-        "date": "2026-09-01",
+        "date": "2026-10-01",
         "label": "1",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-09-02",
+        "date": "2026-10-02",
         "label": "2",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-09-03",
+        "date": "2026-10-03",
         "label": "3",
-        "count": 7
+        "count": 0
       },
       {
-        "date": "2026-09-04",
+        "date": "2026-10-04",
         "label": "4",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-09-05",
+        "date": "2026-10-05",
         "label": "5",
         "count": 0
       },
       {
-        "date": "2026-09-06",
+        "date": "2026-10-06",
         "label": "6",
         "count": 0
       },
       {
-        "date": "2026-09-07",
+        "date": "2026-10-07",
         "label": "7",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-09-08",
+        "date": "2026-10-08",
         "label": "8",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-09-09",
+        "date": "2026-10-09",
         "label": "9",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-09-10",
+        "date": "2026-10-10",
         "label": "10",
-        "count": 5
+        "count": 0
       },
       {
-        "date": "2026-09-11",
+        "date": "2026-10-11",
         "label": "11",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-09-12",
+        "date": "2026-10-12",
         "label": "12",
         "count": 0
       },
       {
-        "date": "2026-09-13",
+        "date": "2026-10-13",
         "label": "13",
         "count": 0
       },
       {
-        "date": "2026-09-14",
+        "date": "2026-10-14",
         "label": "14",
-        "count": 3
+        "count": 0
       },
       {
-        "date": "2026-09-15",
+        "date": "2026-10-15",
         "label": "15",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-09-16",
+        "date": "2026-10-16",
         "label": "16",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-09-17",
+        "date": "2026-10-17",
         "label": "17",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-09-18",
+        "date": "2026-10-18",
         "label": "18",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-09-19",
+        "date": "2026-10-19",
         "label": "19",
         "count": 0
       },
       {
-        "date": "2026-09-20",
+        "date": "2026-10-20",
         "label": "20",
         "count": 0
       },
       {
-        "date": "2026-09-21",
+        "date": "2026-10-21",
         "label": "21",
-        "count": 6
+        "count": 0
       },
       {
-        "date": "2026-09-22",
+        "date": "2026-10-22",
         "label": "22",
-        "count": 3
+        "count": 0
       },
       {
-        "date": "2026-09-23",
+        "date": "2026-10-23",
         "label": "23",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-09-24",
+        "date": "2026-10-24",
         "label": "24",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-09-25",
+        "date": "2026-10-25",
         "label": "25",
         "count": 0
       },
       {
-        "date": "2026-09-26",
+        "date": "2026-10-26",
         "label": "26",
         "count": 0
       },
       {
-        "date": "2026-09-27",
+        "date": "2026-10-27",
         "label": "27",
         "count": 0
       },
       {
-        "date": "2026-09-28",
+        "date": "2026-10-28",
         "label": "28",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-09-29",
+        "date": "2026-10-29",
         "label": "29",
         "count": 0
       },
       {
-        "date": "2026-09-30",
+        "date": "2026-10-30",
         "label": "30",
+        "count": 0
+      },
+      {
+        "date": "2026-10-31",
+        "label": "31",
         "count": 0
       }
     ],
@@ -257,13 +262,13 @@
         "month": "2026-09",
         "label": "Sep",
         "count": 54,
-        "state": "current"
+        "state": "past"
       },
       {
         "month": "2026-10",
         "label": "Oct",
         "count": 0,
-        "state": "future"
+        "state": "current"
       },
       {
         "month": "2026-11",
@@ -358,6 +363,12 @@
         "done": 54,
         "progressed": 68,
         "triaged": 62
+      },
+      {
+        "month": "2026-10",
+        "done": 0,
+        "progressed": 0,
+        "triaged": 0
       }
     ]
   },
