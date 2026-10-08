@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-08T14:17:26.657Z",
+  "generatedAt": "2026-10-08T17:17:12.877Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-10-08",
@@ -12,16 +12,16 @@
     "previousMonth": "2026-09"
   },
   "counts": {
-    "completedToday": 0,
-    "completedThisWeek": 7,
-    "completedThisMonth": 11,
-    "movedForwardThisWeek": 17,
-    "movedForwardThisMonth": 17,
-    "triageClearedThisWeek": 10,
-    "triageClearedThisMonth": 11,
-    "triage": 9,
-    "pending": 13,
-    "inProgress": 7,
+    "completedToday": 1,
+    "completedThisWeek": 8,
+    "completedThisMonth": 12,
+    "movedForwardThisWeek": 18,
+    "movedForwardThisMonth": 18,
+    "triageClearedThisWeek": 11,
+    "triageClearedThisMonth": 12,
+    "triage": 8,
+    "pending": 14,
+    "inProgress": 6,
     "blockedWaiting": 9
   },
   "trends": {
@@ -44,7 +44,7 @@
       {
         "date": "2026-10-08",
         "label": "Thu",
-        "count": 0
+        "count": 1
       },
       {
         "date": "2026-10-09",
@@ -91,7 +91,7 @@
       {
         "date": "2026-10-08",
         "label": "8",
-        "count": 0
+        "count": 1
       },
       {
         "date": "2026-10-09",
@@ -267,7 +267,7 @@
       {
         "month": "2026-10",
         "label": "Oct",
-        "count": 11,
+        "count": 12,
         "state": "current"
       },
       {
@@ -366,16 +366,16 @@
       },
       {
         "month": "2026-10",
-        "done": 11,
-        "progressed": 17,
-        "triaged": 11
+        "done": 12,
+        "progressed": 18,
+        "triaged": 12
       }
     ]
   },
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 9
+      "openCards": 8
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
@@ -383,11 +383,11 @@
     },
     "today": {
       "name": "Today",
-      "openCards": 7
+      "openCards": 8
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 9
+      "openCards": 8
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
@@ -395,7 +395,7 @@
     },
     "done": {
       "name": "Done",
-      "openCards": 12
+      "openCards": 13
     }
   }
 }
