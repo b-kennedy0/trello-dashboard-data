@@ -1,23 +1,23 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-09T17:17:11.959Z",
+  "generatedAt": "2026-10-12T08:17:53.350Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-10-09",
+    "today": "2026-10-12",
     "weekStartsOn": "Monday",
-    "weekStart": "2026-10-05",
-    "weekEnd": "2026-10-11",
+    "weekStart": "2026-10-12",
+    "weekEnd": "2026-10-18",
     "monthStart": "2026-10-01",
     "monthEnd": "2026-10-31",
     "previousMonth": "2026-09"
   },
   "counts": {
-    "completedToday": 4,
-    "completedThisWeek": 12,
+    "completedToday": 0,
+    "completedThisWeek": 0,
     "completedThisMonth": 16,
-    "movedForwardThisWeek": 18,
+    "movedForwardThisWeek": 0,
     "movedForwardThisMonth": 18,
-    "triageClearedThisWeek": 11,
+    "triageClearedThisWeek": 0,
     "triageClearedThisMonth": 12,
     "triage": 8,
     "pending": 13,
@@ -27,29 +27,29 @@
   "trends": {
     "completedByDay": [
       {
-        "date": "2026-10-05",
+        "date": "2026-10-12",
         "label": "Mon",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-10-06",
+        "date": "2026-10-13",
         "label": "Tue",
         "count": 0
       },
       {
-        "date": "2026-10-07",
+        "date": "2026-10-14",
         "label": "Wed",
-        "count": 3
+        "count": 0
       },
       {
-        "date": "2026-10-08",
+        "date": "2026-10-15",
         "label": "Thu",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-10-16",
         "label": "Fri",
-        "count": 4
+        "count": 0
       }
     ],
     "completedByMonthDay": [
