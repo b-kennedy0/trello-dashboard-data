@@ -1,9 +1,9 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-19T17:17:14.158Z",
+  "generatedAt": "2026-10-20T08:17:47.671Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-10-19",
+    "today": "2026-10-20",
     "weekStartsOn": "Monday",
     "weekStart": "2026-10-19",
     "weekEnd": "2026-10-25",
@@ -15,14 +15,14 @@
     "completedToday": 0,
     "completedThisWeek": 0,
     "completedThisMonth": 28,
-    "movedForwardThisWeek": 0,
-    "movedForwardThisMonth": 28,
-    "triageClearedThisWeek": 0,
-    "triageClearedThisMonth": 15,
+    "movedForwardThisWeek": 2,
+    "movedForwardThisMonth": 30,
+    "triageClearedThisWeek": 3,
+    "triageClearedThisMonth": 18,
     "triage": 7,
-    "pending": 10,
+    "pending": 12,
     "inProgress": 0,
-    "blockedWaiting": 9
+    "blockedWaiting": 10
   },
   "trends": {
     "completedByDay": [
@@ -367,8 +367,8 @@
       {
         "month": "2026-10",
         "done": 28,
-        "progressed": 28,
-        "triaged": 15
+        "progressed": 30,
+        "triaged": 18
       }
     ]
   },
@@ -379,7 +379,7 @@
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
-      "openCards": 7
+      "openCards": 9
     },
     "today": {
       "name": "Today",
@@ -391,7 +391,7 @@
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
-      "openCards": 9
+      "openCards": 10
     },
     "done": {
       "name": "Done",
