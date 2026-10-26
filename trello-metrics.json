@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-26T18:17:14.853Z",
+  "generatedAt": "2026-10-26T23:31:39.319Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-10-26",
@@ -12,17 +12,17 @@
     "previousMonth": "2026-09"
   },
   "counts": {
-    "completedToday": 6,
-    "movedForwardToday": 3,
-    "completedThisWeek": 6,
-    "completedThisMonth": 46,
-    "movedForwardThisWeek": 3,
-    "movedForwardThisMonth": 50,
-    "triageClearedThisWeek": 6,
-    "triageClearedThisMonth": 39,
+    "completedToday": 7,
+    "movedForwardToday": 4,
+    "completedThisWeek": 7,
+    "completedThisMonth": 47,
+    "movedForwardThisWeek": 4,
+    "movedForwardThisMonth": 51,
+    "triageClearedThisWeek": 7,
+    "triageClearedThisMonth": 40,
     "triage": 3,
-    "pending": 13,
-    "inProgress": 1,
+    "pending": 18,
+    "inProgress": 0,
     "blockedWaiting": 10
   },
   "trends": {
@@ -30,7 +30,7 @@
       {
         "date": "2026-10-26",
         "label": "Mon",
-        "count": 6
+        "count": 7
       },
       {
         "date": "2026-10-27",
@@ -182,7 +182,7 @@
       {
         "date": "2026-10-26",
         "label": "26",
-        "count": 6
+        "count": 7
       },
       {
         "date": "2026-10-27",
@@ -268,7 +268,7 @@
       {
         "month": "2026-10",
         "label": "Oct",
-        "count": 46,
+        "count": 47,
         "state": "current"
       },
       {
@@ -367,9 +367,9 @@
       },
       {
         "month": "2026-10",
-        "done": 46,
-        "progressed": 50,
-        "triaged": 39
+        "done": 47,
+        "progressed": 51,
+        "triaged": 40
       }
     ]
   },
@@ -384,11 +384,11 @@
     },
     "today": {
       "name": "Today",
-      "openCards": 7
+      "openCards": 8
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 3
+      "openCards": 2
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
@@ -396,7 +396,7 @@
     },
     "done": {
       "name": "Done",
-      "openCards": 47
+      "openCards": 48
     }
   }
 }
