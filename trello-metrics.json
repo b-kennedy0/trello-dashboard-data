@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-26T15:17:43.547Z",
+  "generatedAt": "2026-10-26T18:17:14.853Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-10-26",
@@ -12,14 +12,15 @@
     "previousMonth": "2026-09"
   },
   "counts": {
-    "completedToday": 3,
-    "completedThisWeek": 3,
-    "completedThisMonth": 43,
-    "movedForwardThisWeek": 0,
-    "movedForwardThisMonth": 47,
-    "triageClearedThisWeek": 3,
-    "triageClearedThisMonth": 36,
-    "triage": 2,
+    "completedToday": 6,
+    "movedForwardToday": 3,
+    "completedThisWeek": 6,
+    "completedThisMonth": 46,
+    "movedForwardThisWeek": 3,
+    "movedForwardThisMonth": 50,
+    "triageClearedThisWeek": 6,
+    "triageClearedThisMonth": 39,
+    "triage": 3,
     "pending": 13,
     "inProgress": 1,
     "blockedWaiting": 10
@@ -29,7 +30,7 @@
       {
         "date": "2026-10-26",
         "label": "Mon",
-        "count": 3
+        "count": 6
       },
       {
         "date": "2026-10-27",
@@ -181,7 +182,7 @@
       {
         "date": "2026-10-26",
         "label": "26",
-        "count": 3
+        "count": 6
       },
       {
         "date": "2026-10-27",
@@ -267,7 +268,7 @@
       {
         "month": "2026-10",
         "label": "Oct",
-        "count": 43,
+        "count": 46,
         "state": "current"
       },
       {
@@ -366,16 +367,16 @@
       },
       {
         "month": "2026-10",
-        "done": 43,
-        "progressed": 47,
-        "triaged": 36
+        "done": 46,
+        "progressed": 50,
+        "triaged": 39
       }
     ]
   },
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 2
+      "openCards": 3
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
@@ -395,7 +396,7 @@
     },
     "done": {
       "name": "Done",
-      "openCards": 44
+      "openCards": 47
     }
   }
 }
