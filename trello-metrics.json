@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-28T09:17:28.207Z",
+  "generatedAt": "2026-10-28T12:17:18.817Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-10-28",
@@ -20,8 +20,8 @@
     "movedForwardThisMonth": 53,
     "triageClearedThisWeek": 9,
     "triageClearedThisMonth": 42,
-    "triage": 6,
-    "pending": 14,
+    "triage": 7,
+    "pending": 16,
     "inProgress": 3,
     "blockedWaiting": 10
   },
@@ -376,7 +376,7 @@
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 6
+      "openCards": 7
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
