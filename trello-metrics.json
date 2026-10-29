@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-29T12:17:20.064Z",
+  "generatedAt": "2026-10-29T14:47:22.552Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-10-29",
@@ -20,9 +20,9 @@
     "movedForwardThisMonth": 55,
     "triageClearedThisWeek": 11,
     "triageClearedThisMonth": 44,
-    "triage": 6,
+    "triage": 7,
     "pending": 16,
-    "inProgress": 3,
+    "inProgress": 4,
     "blockedWaiting": 10
   },
   "trends": {
@@ -376,7 +376,7 @@
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 6
+      "openCards": 7
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
@@ -388,7 +388,7 @@
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 5
+      "openCards": 6
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
