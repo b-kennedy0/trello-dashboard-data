@@ -1,212 +1,207 @@
 {
   "version": 4,
-  "generatedAt": "2026-10-30T18:17:14.720Z",
+  "generatedAt": "2026-11-02T09:19:56.681Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-10-30",
+    "today": "2026-11-02",
     "weekStartsOn": "Monday",
-    "weekStart": "2026-10-26",
-    "weekEnd": "2026-11-01",
-    "monthStart": "2026-10-01",
-    "monthEnd": "2026-10-31",
-    "previousMonth": "2026-09"
+    "weekStart": "2026-11-02",
+    "weekEnd": "2026-11-08",
+    "monthStart": "2026-11-01",
+    "monthEnd": "2026-11-30",
+    "previousMonth": "2026-10"
   },
   "counts": {
-    "completedToday": 2,
+    "completedToday": 1,
     "movedForwardToday": 0,
-    "completedThisWeek": 12,
-    "completedThisMonth": 52,
-    "movedForwardThisWeek": 9,
-    "movedForwardThisMonth": 56,
-    "triageClearedThisWeek": 14,
-    "triageClearedThisMonth": 47,
-    "triage": 9,
-    "pending": 16,
-    "inProgress": 4,
-    "blockedWaiting": 11
+    "completedThisWeek": 1,
+    "completedThisMonth": 6,
+    "movedForwardThisWeek": 0,
+    "movedForwardThisMonth": 4,
+    "triageClearedThisWeek": 0,
+    "triageClearedThisMonth": 3,
+    "triage": 7,
+    "pending": 18,
+    "inProgress": 5,
+    "blockedWaiting": 6
   },
   "trends": {
     "completedByDay": [
       {
-        "date": "2026-10-26",
+        "date": "2026-11-02",
         "label": "Mon",
-        "count": 7
+        "count": 1
       },
       {
-        "date": "2026-10-27",
+        "date": "2026-11-03",
         "label": "Tue",
         "count": 0
       },
       {
-        "date": "2026-10-28",
+        "date": "2026-11-04",
         "label": "Wed",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-10-29",
+        "date": "2026-11-05",
         "label": "Thu",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-10-30",
+        "date": "2026-11-06",
         "label": "Fri",
-        "count": 2
+        "count": 0
       }
     ],
     "completedByMonthDay": [
       {
-        "date": "2026-10-01",
+        "date": "2026-11-01",
         "label": "1",
-        "count": 0
+        "count": 5
       },
       {
-        "date": "2026-10-02",
+        "date": "2026-11-02",
         "label": "2",
-        "count": 4
+        "count": 1
       },
       {
-        "date": "2026-10-03",
+        "date": "2026-11-03",
         "label": "3",
         "count": 0
       },
       {
-        "date": "2026-10-04",
+        "date": "2026-11-04",
         "label": "4",
         "count": 0
       },
       {
-        "date": "2026-10-05",
+        "date": "2026-11-05",
         "label": "5",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-10-06",
+        "date": "2026-11-06",
         "label": "6",
         "count": 0
       },
       {
-        "date": "2026-10-07",
+        "date": "2026-11-07",
         "label": "7",
-        "count": 3
+        "count": 0
       },
       {
-        "date": "2026-10-08",
+        "date": "2026-11-08",
         "label": "8",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-11-09",
         "label": "9",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-10-10",
+        "date": "2026-11-10",
         "label": "10",
         "count": 0
       },
       {
-        "date": "2026-10-11",
+        "date": "2026-11-11",
         "label": "11",
         "count": 0
       },
       {
-        "date": "2026-10-12",
+        "date": "2026-11-12",
         "label": "12",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-10-13",
+        "date": "2026-11-13",
         "label": "13",
-        "count": 3
+        "count": 0
       },
       {
-        "date": "2026-10-14",
+        "date": "2026-11-14",
         "label": "14",
         "count": 0
       },
       {
-        "date": "2026-10-15",
+        "date": "2026-11-15",
         "label": "15",
-        "count": 5
+        "count": 0
       },
       {
-        "date": "2026-10-16",
+        "date": "2026-11-16",
         "label": "16",
         "count": 0
       },
       {
-        "date": "2026-10-17",
+        "date": "2026-11-17",
         "label": "17",
         "count": 0
       },
       {
-        "date": "2026-10-18",
+        "date": "2026-11-18",
         "label": "18",
         "count": 0
       },
       {
-        "date": "2026-10-19",
+        "date": "2026-11-19",
         "label": "19",
         "count": 0
       },
       {
-        "date": "2026-10-20",
+        "date": "2026-11-20",
         "label": "20",
         "count": 0
       },
       {
-        "date": "2026-10-21",
+        "date": "2026-11-21",
         "label": "21",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-10-22",
+        "date": "2026-11-22",
         "label": "22",
-        "count": 3
+        "count": 0
       },
       {
-        "date": "2026-10-23",
+        "date": "2026-11-23",
         "label": "23",
-        "count": 5
+        "count": 0
       },
       {
-        "date": "2026-10-24",
+        "date": "2026-11-24",
         "label": "24",
         "count": 0
       },
       {
-        "date": "2026-10-25",
+        "date": "2026-11-25",
         "label": "25",
         "count": 0
       },
       {
-        "date": "2026-10-26",
+        "date": "2026-11-26",
         "label": "26",
-        "count": 7
+        "count": 0
       },
       {
-        "date": "2026-10-27",
+        "date": "2026-11-27",
         "label": "27",
         "count": 0
       },
       {
-        "date": "2026-10-28",
+        "date": "2026-11-28",
         "label": "28",
-        "count": 2
+        "count": 0
       },
       {
-        "date": "2026-10-29",
+        "date": "2026-11-29",
         "label": "29",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-10-30",
+        "date": "2026-11-30",
         "label": "30",
-        "count": 2
-      },
-      {
-        "date": "2026-10-31",
-        "label": "31",
         "count": 0
       }
     ],
@@ -268,14 +263,14 @@
       {
         "month": "2026-10",
         "label": "Oct",
-        "count": 52,
-        "state": "current"
+        "count": 55,
+        "state": "past"
       },
       {
         "month": "2026-11",
         "label": "Nov",
-        "count": 0,
-        "state": "future"
+        "count": 6,
+        "state": "current"
       },
       {
         "month": "2026-12",
@@ -367,16 +362,22 @@
       },
       {
         "month": "2026-10",
-        "done": 52,
+        "done": 55,
         "progressed": 56,
-        "triaged": 47
+        "triaged": 49
+      },
+      {
+        "month": "2026-11",
+        "done": 6,
+        "progressed": 4,
+        "triaged": 3
       }
     ]
   },
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 9
+      "openCards": 7
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
@@ -384,19 +385,19 @@
     },
     "today": {
       "name": "Today",
-      "openCards": 4
+      "openCards": 5
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 6
+      "openCards": 7
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
-      "openCards": 11
+      "openCards": 6
     },
     "done": {
       "name": "Done",
-      "openCards": 53
+      "openCards": 1
     }
   }
 }
