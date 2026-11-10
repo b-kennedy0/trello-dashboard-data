@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-10T15:17:51.999Z",
+  "generatedAt": "2026-11-10T18:17:12.663Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-11-10",
@@ -12,17 +12,17 @@
     "previousMonth": "2026-10"
   },
   "counts": {
-    "completedToday": 2,
+    "completedToday": 3,
     "movedForwardToday": 1,
-    "completedThisWeek": 6,
-    "completedThisMonth": 20,
+    "completedThisWeek": 7,
+    "completedThisMonth": 21,
     "movedForwardThisWeek": 5,
     "movedForwardThisMonth": 9,
     "triageClearedThisWeek": 3,
     "triageClearedThisMonth": 13,
     "triage": 7,
     "pending": 19,
-    "inProgress": 2,
+    "inProgress": 1,
     "blockedWaiting": 8
   },
   "trends": {
@@ -35,7 +35,7 @@
       {
         "date": "2026-11-10",
         "label": "Tue",
-        "count": 2
+        "count": 3
       },
       {
         "date": "2026-11-11",
@@ -102,7 +102,7 @@
       {
         "date": "2026-11-10",
         "label": "10",
-        "count": 2
+        "count": 3
       },
       {
         "date": "2026-11-11",
@@ -269,7 +269,7 @@
       {
         "month": "2026-11",
         "label": "Nov",
-        "count": 20,
+        "count": 21,
         "state": "current"
       },
       {
@@ -368,7 +368,7 @@
       },
       {
         "month": "2026-11",
-        "done": 20,
+        "done": 21,
         "progressed": 9,
         "triaged": 13
       }
@@ -389,7 +389,7 @@
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 4
+      "openCards": 3
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
@@ -397,7 +397,7 @@
     },
     "done": {
       "name": "Done",
-      "openCards": 6
+      "openCards": 7
     }
   }
 }
