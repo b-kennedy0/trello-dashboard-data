@@ -1,9 +1,9 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-09T15:17:40.738Z",
+  "generatedAt": "2026-11-10T09:17:46.334Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-11-09",
+    "today": "2026-11-10",
     "weekStartsOn": "Monday",
     "weekStart": "2026-11-09",
     "weekEnd": "2026-11-15",
@@ -12,30 +12,30 @@
     "previousMonth": "2026-10"
   },
   "counts": {
-    "completedToday": 1,
+    "completedToday": 2,
     "movedForwardToday": 1,
-    "completedThisWeek": 1,
-    "completedThisMonth": 15,
-    "movedForwardThisWeek": 1,
-    "movedForwardThisMonth": 5,
-    "triageClearedThisWeek": 1,
-    "triageClearedThisMonth": 11,
+    "completedThisWeek": 6,
+    "completedThisMonth": 20,
+    "movedForwardThisWeek": 5,
+    "movedForwardThisMonth": 9,
+    "triageClearedThisWeek": 3,
+    "triageClearedThisMonth": 13,
     "triage": 7,
-    "pending": 18,
-    "inProgress": 5,
-    "blockedWaiting": 7
+    "pending": 19,
+    "inProgress": 2,
+    "blockedWaiting": 8
   },
   "trends": {
     "completedByDay": [
       {
         "date": "2026-11-09",
         "label": "Mon",
-        "count": 1
+        "count": 4
       },
       {
         "date": "2026-11-10",
         "label": "Tue",
-        "count": 0
+        "count": 2
       },
       {
         "date": "2026-11-11",
@@ -97,12 +97,12 @@
       {
         "date": "2026-11-09",
         "label": "9",
-        "count": 1
+        "count": 4
       },
       {
         "date": "2026-11-10",
         "label": "10",
-        "count": 0
+        "count": 2
       },
       {
         "date": "2026-11-11",
@@ -269,7 +269,7 @@
       {
         "month": "2026-11",
         "label": "Nov",
-        "count": 15,
+        "count": 20,
         "state": "current"
       },
       {
@@ -368,9 +368,9 @@
       },
       {
         "month": "2026-11",
-        "done": 15,
-        "progressed": 5,
-        "triaged": 11
+        "done": 20,
+        "progressed": 9,
+        "triaged": 13
       }
     ]
   },
@@ -381,23 +381,23 @@
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
-      "openCards": 10
+      "openCards": 11
     },
     "today": {
       "name": "Today",
-      "openCards": 5
+      "openCards": 4
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 7
+      "openCards": 4
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
-      "openCards": 7
+      "openCards": 8
     },
     "done": {
       "name": "Done",
-      "openCards": 1
+      "openCards": 6
     }
   }
 }
