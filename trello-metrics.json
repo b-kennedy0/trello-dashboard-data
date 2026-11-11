@@ -1,9 +1,9 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-10T18:17:12.663Z",
+  "generatedAt": "2026-11-11T09:17:46.608Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-11-10",
+    "today": "2026-11-11",
     "weekStartsOn": "Monday",
     "weekStart": "2026-11-09",
     "weekEnd": "2026-11-15",
@@ -12,17 +12,17 @@
     "previousMonth": "2026-10"
   },
   "counts": {
-    "completedToday": 3,
-    "movedForwardToday": 1,
-    "completedThisWeek": 7,
-    "completedThisMonth": 21,
-    "movedForwardThisWeek": 5,
-    "movedForwardThisMonth": 9,
+    "completedToday": 1,
+    "movedForwardToday": 3,
+    "completedThisWeek": 8,
+    "completedThisMonth": 22,
+    "movedForwardThisWeek": 8,
+    "movedForwardThisMonth": 12,
     "triageClearedThisWeek": 3,
     "triageClearedThisMonth": 13,
     "triage": 7,
-    "pending": 19,
-    "inProgress": 1,
+    "pending": 17,
+    "inProgress": 3,
     "blockedWaiting": 8
   },
   "trends": {
@@ -40,7 +40,7 @@
       {
         "date": "2026-11-11",
         "label": "Wed",
-        "count": 0
+        "count": 1
       },
       {
         "date": "2026-11-12",
@@ -107,7 +107,7 @@
       {
         "date": "2026-11-11",
         "label": "11",
-        "count": 0
+        "count": 1
       },
       {
         "date": "2026-11-12",
@@ -269,7 +269,7 @@
       {
         "month": "2026-11",
         "label": "Nov",
-        "count": 21,
+        "count": 22,
         "state": "current"
       },
       {
@@ -368,8 +368,8 @@
       },
       {
         "month": "2026-11",
-        "done": 21,
-        "progressed": 9,
+        "done": 22,
+        "progressed": 12,
         "triaged": 13
       }
     ]
@@ -385,11 +385,11 @@
     },
     "today": {
       "name": "Today",
-      "openCards": 4
+      "openCards": 2
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 3
+      "openCards": 5
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
@@ -397,7 +397,7 @@
     },
     "done": {
       "name": "Done",
-      "openCards": 7
+      "openCards": 8
     }
   }
 }
