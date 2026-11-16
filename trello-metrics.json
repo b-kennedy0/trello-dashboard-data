@@ -1,26 +1,26 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-13T18:17:16.681Z",
+  "generatedAt": "2026-11-16T09:21:12.179Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-11-13",
+    "today": "2026-11-16",
     "weekStartsOn": "Monday",
-    "weekStart": "2026-11-09",
-    "weekEnd": "2026-11-15",
+    "weekStart": "2026-11-16",
+    "weekEnd": "2026-11-22",
     "monthStart": "2026-11-01",
     "monthEnd": "2026-11-30",
     "previousMonth": "2026-10"
   },
   "counts": {
-    "completedToday": 4,
+    "completedToday": 0,
     "movedForwardToday": 0,
-    "completedThisWeek": 13,
+    "completedThisWeek": 0,
     "completedThisMonth": 27,
-    "movedForwardThisWeek": 9,
+    "movedForwardThisWeek": 0,
     "movedForwardThisMonth": 13,
-    "triageClearedThisWeek": 3,
+    "triageClearedThisWeek": 0,
     "triageClearedThisMonth": 13,
-    "triage": 7,
+    "triage": 8,
     "pending": 19,
     "inProgress": 3,
     "blockedWaiting": 8
@@ -28,29 +28,29 @@
   "trends": {
     "completedByDay": [
       {
-        "date": "2026-11-09",
+        "date": "2026-11-16",
         "label": "Mon",
-        "count": 4
+        "count": 0
       },
       {
-        "date": "2026-11-10",
+        "date": "2026-11-17",
         "label": "Tue",
-        "count": 3
+        "count": 0
       },
       {
-        "date": "2026-11-11",
+        "date": "2026-11-18",
         "label": "Wed",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-11-12",
+        "date": "2026-11-19",
         "label": "Thu",
-        "count": 1
+        "count": 0
       },
       {
-        "date": "2026-11-13",
+        "date": "2026-11-20",
         "label": "Fri",
-        "count": 4
+        "count": 0
       }
     ],
     "completedByMonthDay": [
@@ -377,7 +377,7 @@
   "lists": {
     "triage": {
       "name": "Triage",
-      "openCards": 7
+      "openCards": 8
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
