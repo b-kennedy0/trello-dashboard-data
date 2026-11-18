@@ -1,9 +1,9 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-17T18:17:14.014Z",
+  "generatedAt": "2026-11-18T09:19:44.738Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-11-17",
+    "today": "2026-11-18",
     "weekStartsOn": "Monday",
     "weekStart": "2026-11-16",
     "weekEnd": "2026-11-22",
@@ -12,7 +12,7 @@
     "previousMonth": "2026-10"
   },
   "counts": {
-    "completedToday": 1,
+    "completedToday": 0,
     "movedForwardToday": 0,
     "completedThisWeek": 1,
     "completedThisMonth": 28,
