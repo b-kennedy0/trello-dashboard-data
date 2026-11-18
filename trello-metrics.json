@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-18T12:17:44.894Z",
+  "generatedAt": "2026-11-18T15:18:00.804Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-11-18",
@@ -21,7 +21,7 @@
     "triageClearedThisWeek": 2,
     "triageClearedThisMonth": 15,
     "triage": 7,
-    "pending": 16,
+    "pending": 18,
     "inProgress": 5,
     "blockedWaiting": 8
   },
@@ -385,7 +385,7 @@
     },
     "today": {
       "name": "Today",
-      "openCards": 1
+      "openCards": 3
     },
     "inProgress": {
       "name": "In Progress",
