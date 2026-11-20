@@ -1,9 +1,9 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-19T18:17:16.250Z",
+  "generatedAt": "2026-11-20T09:17:30.124Z",
   "timeZone": "Europe/London",
   "period": {
-    "today": "2026-11-19",
+    "today": "2026-11-20",
     "weekStartsOn": "Monday",
     "weekStart": "2026-11-16",
     "weekEnd": "2026-11-22",
@@ -21,7 +21,7 @@
     "triageClearedThisWeek": 2,
     "triageClearedThisMonth": 15,
     "triage": 7,
-    "pending": 18,
+    "pending": 19,
     "inProgress": 5,
     "blockedWaiting": 8
   },
@@ -385,7 +385,7 @@
     },
     "today": {
       "name": "Today",
-      "openCards": 3
+      "openCards": 4
     },
     "inProgress": {
       "name": "In Progress",
