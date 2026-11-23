@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-23T12:18:57.344Z",
+  "generatedAt": "2026-11-23T15:17:15.144Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-11-23",
@@ -12,17 +12,17 @@
     "previousMonth": "2026-10"
   },
   "counts": {
-    "completedToday": 0,
-    "movedForwardToday": 0,
-    "completedThisWeek": 0,
-    "completedThisMonth": 30,
-    "movedForwardThisWeek": 0,
-    "movedForwardThisMonth": 14,
-    "triageClearedThisWeek": 0,
-    "triageClearedThisMonth": 15,
+    "completedToday": 2,
+    "movedForwardToday": 1,
+    "completedThisWeek": 2,
+    "completedThisMonth": 32,
+    "movedForwardThisWeek": 1,
+    "movedForwardThisMonth": 15,
+    "triageClearedThisWeek": 1,
+    "triageClearedThisMonth": 16,
     "triage": 7,
-    "pending": 19,
-    "inProgress": 5,
+    "pending": 20,
+    "inProgress": 3,
     "blockedWaiting": 8
   },
   "trends": {
@@ -30,7 +30,7 @@
       {
         "date": "2026-11-23",
         "label": "Mon",
-        "count": 0
+        "count": 2
       },
       {
         "date": "2026-11-24",
@@ -167,7 +167,7 @@
       {
         "date": "2026-11-23",
         "label": "23",
-        "count": 0
+        "count": 2
       },
       {
         "date": "2026-11-24",
@@ -269,7 +269,7 @@
       {
         "month": "2026-11",
         "label": "Nov",
-        "count": 30,
+        "count": 32,
         "state": "current"
       },
       {
@@ -368,9 +368,9 @@
       },
       {
         "month": "2026-11",
-        "done": 30,
-        "progressed": 14,
-        "triaged": 15
+        "done": 32,
+        "progressed": 15,
+        "triaged": 16
       }
     ]
   },
@@ -385,11 +385,11 @@
     },
     "today": {
       "name": "Today",
-      "openCards": 4
+      "openCards": 5
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 7
+      "openCards": 5
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
@@ -397,7 +397,7 @@
     },
     "done": {
       "name": "Done",
-      "openCards": 16
+      "openCards": 18
     }
   }
 }
