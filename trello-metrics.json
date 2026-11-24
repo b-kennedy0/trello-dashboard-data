@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "generatedAt": "2026-11-24T15:17:16.463Z",
+  "generatedAt": "2026-11-24T18:17:12.217Z",
   "timeZone": "Europe/London",
   "period": {
     "today": "2026-11-24",
@@ -12,17 +12,17 @@
     "previousMonth": "2026-10"
   },
   "counts": {
-    "completedToday": 2,
-    "movedForwardToday": 2,
-    "completedThisWeek": 4,
-    "completedThisMonth": 34,
-    "movedForwardThisWeek": 4,
-    "movedForwardThisMonth": 18,
+    "completedToday": 6,
+    "movedForwardToday": 4,
+    "completedThisWeek": 8,
+    "completedThisMonth": 38,
+    "movedForwardThisWeek": 6,
+    "movedForwardThisMonth": 20,
     "triageClearedThisWeek": 2,
     "triageClearedThisMonth": 17,
     "triage": 9,
-    "pending": 20,
-    "inProgress": 4,
+    "pending": 17,
+    "inProgress": 3,
     "blockedWaiting": 7
   },
   "trends": {
@@ -35,7 +35,7 @@
       {
         "date": "2026-11-24",
         "label": "Tue",
-        "count": 2
+        "count": 6
       },
       {
         "date": "2026-11-25",
@@ -172,7 +172,7 @@
       {
         "date": "2026-11-24",
         "label": "24",
-        "count": 2
+        "count": 6
       },
       {
         "date": "2026-11-25",
@@ -269,7 +269,7 @@
       {
         "month": "2026-11",
         "label": "Nov",
-        "count": 34,
+        "count": 38,
         "state": "current"
       },
       {
@@ -368,8 +368,8 @@
       },
       {
         "month": "2026-11",
-        "done": 34,
-        "progressed": 18,
+        "done": 38,
+        "progressed": 20,
         "triaged": 17
       }
     ]
@@ -381,15 +381,15 @@
     },
     "toDoOrdered": {
       "name": "To Do - Ordered",
-      "openCards": 12
+      "openCards": 10
     },
     "today": {
       "name": "Today",
-      "openCards": 4
+      "openCards": 3
     },
     "inProgress": {
       "name": "In Progress",
-      "openCards": 6
+      "openCards": 5
     },
     "blockedWaiting": {
       "name": "Waiting/Blocked/Repeat",
@@ -397,7 +397,7 @@
     },
     "done": {
       "name": "Done",
-      "openCards": 20
+      "openCards": 24
     }
   }
 }
